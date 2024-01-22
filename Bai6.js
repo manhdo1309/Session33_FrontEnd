@@ -46,7 +46,7 @@ let choice;
 do{
     console.log("===== Quản lý công việc =====");
     console.log("1. Thêm mới công việc");
-    console.log("2. Hiển thị danh sách công việc");
+    console.log("2. In ra danh sách công việc");
     console.log("3. Tìm kiếm công việc theo ID");
     console.log("4. Thoát chương trình");
     choice = prompt("Nhập lựa chọn của bạn (1-4):");
